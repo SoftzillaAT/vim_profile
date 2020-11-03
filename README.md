@@ -1,2 +1,2 @@
 # vim_profile
-Just a modified vim profile
+Just a modified vim profile. 
